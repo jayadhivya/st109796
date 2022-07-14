@@ -1,0 +1,28 @@
+' *****************************************************************************
+
+'' FILENAME: adduser
+
+'' *****************************************************************************
+
+'' ABOUT THIS FILE
+
+'' AUTHOR IDENTITY:
+'' Initials Name/Company
+
+'' -------- -----------------------------------------
+
+'' rw Rick Wagonner ABC INC
+'' REVISION HISTORY:
+'' Date/Initials Comments
+
+'' --------- -------------------------------
+'' 07/14/2022 rw Created for LoanApp 2.1
+
+''*****************************************
+
+''SCRIPT
+
+"Valid Input
+AddUser "jsmith", "password", "John", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
+
+AddUser "rnmith", "password", "Nancy", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
